@@ -1,0 +1,135 @@
+body{
+    font-family: 'Oswald', sans-serif;
+    margin: 0px;
+}
+h1{
+  
+    font-size: 50px;
+}
+
+#Name-color{
+    color: rgb(223, 88, 39);
+}
+.half-width{
+    width: 30%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 5%;
+    
+}
+section{
+    height: 500px;
+    padding-bottom: 20px;
+}    
+.half-width img{
+    margin-top: 2%;
+    width: 100%;
+}
+.top-banner{
+    background-color: white;
+}
+.link-buttom{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, rgb(207, 124, 91), rgb(235, 81, 54));
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+.working-project{
+    background-color: #f5f3f3;
+}
+h2{
+    font-size: 45px;
+    text-align: center;
+}
+.orange-highlight{
+    color: orange;
+    font-size: 45px;
+}
+.full-div{
+    margin: 5%;
+    padding-left: 5%;
+   
+}
+.box{
+    width: 30%;
+    float: left;
+    background-color: white;
+}
+.box h3{
+    width: 80%;
+    margin-left: 3%;
+    padding-left: 3%;
+    
+}
+.box p{
+    width: 80%;
+    margin-left: 3%;
+    padding-left: 3%;
+    
+    
+}
+.box img{
+    width: 80%;
+    margin-left: 3%;
+    padding-left: 3%;
+}
+
+
+
+.work-inquiry{
+    background-image: url("images/bg.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: 60%;
+    height: 250px;
+    text-align: center;
+    margin: auto;
+
+}
+.work-inquiry h1{
+    color: white;
+    float: left;
+    margin: 50px;
+}
+.work-inquiry a{
+    float: right;
+    margin: 70px 80px;
+    text-decoration: none;
+    color: white;
+    background-image: linear-gradient(90deg, #FF8063 ,#F46060);
+    padding: 20px 20px;
+    border-radius: 5px;
+}
+.e-mail{
+    text-align: center;
+}
+.e-mail h4{
+    
+    color: #696871;
+    font-weight: 400;
+    font-size: 24px;
+}
+.social a{
+    text-decoration: none;
+    color: #363958;
+    font-size: 36px;
+    font-weight: 700;
+}
+.icons{
+    text-align: center;
+}
+.icons img{
+    margin-top: 30px;
+    margin-right: 40px;
+    width: 30px;
+}
+.footer-img{
+    align: center;
+}
+footer{
+    text-align: center;
+    font-size: 12px;
+    color: #231f3d;
+}
